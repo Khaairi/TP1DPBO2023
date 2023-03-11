@@ -86,7 +86,9 @@ Pada class `Matkul`terdapat tiga atribut:
 Terdapat method setter dan getter
 
 ## Alur Program
-Alur program ditentukan dari inputan user, program akan menampilkan menu pilihan yang dapat dipilih oleh user, pada pilihan pertama yaitu pilihan untuk menampilkan data prodi atau memilih karakter, jika user memilih karakter maka akan ditampilkan lagi pilihan untuk memilih karakter (ada Resyad, Pahri, Angga, Getsbi, Mila dan Mrs Rose), tiap karakter memiliki rolenya masing-masing yang mana jika dipilih akan menampilkan tampilan pilihannya masing masing, misalkan Pahri yang seorang anggota BEM maka terdapat pilihan untuk merancang proker berbeda dengan Resyad yang hanya mahasiswa biasa, lalu Mrs Rose yang merupakan seorang dosen yang terdapat pilihan untuk memberikan nilai kepada mahasiswa.\Pada pilihan rancang proker, jalankan proker dan hadiri evaluasi user diminta untuk menginput nama prokernya. Pada pilihan memberi nilai baik dari asprak atau dosen, user diminta untuk menginput nama mahasiwa lalu nama mata kuliahnya dan terakhir nilainya. Untuk tiap pilihan terdapat error handlingnya masing masing.
+Alur program ditentukan dari inputan user, program akan menampilkan menu pilihan yang dapat dipilih oleh user, pada pilihan pertama yaitu pilihan untuk menampilkan data prodi atau memilih karakter, jika user memilih karakter maka akan ditampilkan lagi pilihan untuk memilih karakter (ada Resyad, Pahri, Angga, Getsbi, Mila dan Mrs Rose), tiap karakter memiliki rolenya masing-masing yang mana jika dipilih akan menampilkan tampilan pilihannya masing masing, misalkan Pahri yang seorang anggota BEM maka terdapat pilihan untuk merancang proker berbeda dengan Resyad yang hanya mahasiswa biasa, lalu Mrs Rose yang merupakan seorang dosen yang terdapat pilihan untuk memberikan nilai kepada mahasiswa.
+
+Pada pilihan rancang proker, jalankan proker dan hadiri evaluasi user diminta untuk menginput nama prokernya. Pada pilihan memberi nilai baik dari asprak atau dosen, user diminta untuk menginput nama mahasiwa lalu nama mata kuliahnya dan terakhir nilainya. Untuk tiap pilihan terdapat error handlingnya masing masing.
 
 ## Dokumentasi
 
